@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<bits/stdc++.h>
 #include<stdlib.h>
 long hash[10000];
 char ch;
